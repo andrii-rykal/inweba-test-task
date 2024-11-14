@@ -796,7 +796,7 @@ html {
 
 /* #region footer */
 
-.footer {
+.footer-content {
   grid-column: 1 / -1;
   display: flex;
   justify-content: space-between;
@@ -804,7 +804,7 @@ html {
   padding: 32px 0; 
 }
 
-.footer p {
+.footer-content p {
   color: var(--dark-blue-100);
 }
 
